@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 class Chat extends Component {
     render() {
         return (
-            <div>
+            <div className="chat-container">
                 Main Chat Application
             </div>
         )
