@@ -7,4 +7,16 @@ body {
     height: auto;
     margin: auto;
     border: 2px solid black;
+    // display: table;
+
+    .chat-container {
+        display: inline-block;
+    }
+}
+.chat-message {
+    list-style: none;
+}
+
+.chatInput {
+    border: 2px solid black;
 }
